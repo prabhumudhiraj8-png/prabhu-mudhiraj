@@ -1,6 +1,5 @@
 #Prabhu Mudhiraj
 # 💫 About Me:
-# 💫 About Me:
 🔭 I'm currently working on AI-powered apps & ML pipelines<br>👥 I'm looking to collaborate on Machine Learning, Data Science, and Python projects<br>💛 I'm looking for help with entry-level AI/ML or Data Engineering roles<br>🌱 I'm currently learning Deep Learning, TensorFlow, and Cloud Architecture (GCP/AWS/Azure)<br>💬 Ask me about Python, Machine Learning, Data Analysis, and GATE/CAT prep<br>⚡ Fun fact I scored 95.8 percentile in CAT DILR on my first attempt through self-study!
 
 
